@@ -26,13 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realmehboobalam&show_icons=true&locale=en&layout=compact" alt="realmehboobalam" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realmehboobalam&show_icons=true&locale=en" alt="realmehboobalam" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realmehboobalam&" alt="realmehboobalam" /></p>
-ryo-ma/github-profile-trophy
-:trophy: Add dynamically generated GitHub Stat Trophies  on your readme
-Website
-https://github-profile-trophy.vercel.app
-Stars
-2138
-Added by GitHub
-twitter.comtwitter.com
-Mehboob Alam (@realmehboobalam) | Twitter
-The latest Tweets from Mehboob Alam (@realmehboobalam). :point_up_2:Muslim:point_up_2: :point_up:Pakistani:point_up: :point_right:Ex-Punjabian:point_left: ~•GCUF BSSE ~• ''Enjoying every moment of life. Punjab, Pakistan
+
+

@@ -9,7 +9,6 @@
 - :handshake: I’m looking for help **Angular**
 - :speech_balloon: Ask me about javascript **html , css and javascript**
 - :mailbox: How to reach me **realmehboobalam@gmail.com**
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
@@ -18,7 +17,6 @@
 <a href="https://twitter.com/realmehboobalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realmehboobalam" height="30" width="40" /></a>
 <a href="https://fb.com/realmehboobalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="realmehboobalam" height="30" width="40" /></a>
 <a href="https://instagram.com/realmehboobalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realmehboobalam" height="30" width="40" /></a>
-<a href="https://medium.com/@realmehboobalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@realmehboobalam" height="30" width="40" /></a>
 <a href="/realmehboobalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="realmehboobalam" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
